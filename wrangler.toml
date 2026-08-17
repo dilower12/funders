@@ -7,4 +7,4 @@ bucket = "./public"
 [[d1_databases]]
 binding = "DB"
 database_name = "funders_db"
-database_id = "756fcb5a-d43f-4988-8d2f-9af5dec30a00"
+database_id = "756fcb5a-d43f-4988-8d2..."
